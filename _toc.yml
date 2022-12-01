@@ -4,6 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: intro
+- file: about
 - file: mission
+- file: how-it-works 
+- file: roadmap 
 - file: get-involved 
