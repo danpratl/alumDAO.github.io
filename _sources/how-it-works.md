@@ -1,4 +1,4 @@
-# How Does It Work?
+# How It Works
 
 
 ## Soulbound Token 
