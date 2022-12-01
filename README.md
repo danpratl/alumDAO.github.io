@@ -1,3 +1,3 @@
 # alumDAO Documentation
 
-See here: (https://alumdao.github.io/)[https://alumdao.github.io/]
+See here: https://alumdao.github.io/
