@@ -16,7 +16,7 @@ We envision a world where individuals who once had a passion for research are ab
 Specifically, AlumDAO seeks to connect with researchers and technology transfer organizations  at the premier research institutions in the United States in order to define areas of research with high potential (both being pursued as well as not yet considered)  
 
 
-### Soulbound Token / NFTs (Proof of Association)
+## Soulbound Token / NFTs (Proof of Association)
 
 Access to the AlumDAO network will be enabled through the use of digital "soul-bound" tokens. Each soul-bound token is unique and non-tranferable, meaning it is unable to be traded, bought, or sold on a secondary market. Only the DAO has the ability to granted or revoke soul-bound tokens. Token will act as a decentralized digital passport that grants access to DAO features and represents a single vote in the DAO governance system. More information about the soul-bound NFTs will be available as this technology develops.   
 
