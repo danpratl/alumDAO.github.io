@@ -4,11 +4,22 @@ Now more than ever, the world needs more researchers doing more research. AlumDA
 
 ## What is a DAO 
 
+A distributed autonomous organization (or DAO) is a fully online corporate form that intends to flatten hierarchies and associated decision making processes by distributing corporate control from a centralized point out to individual members. Imagine if corporations and the laws regulating them were developed in the 21st instead of the 19th century, with our modern technologies and social morés; that’s what DAOs intend to provide. Rather than corporate officers (like CEOs and CFOs) acting as shareholder proxies, often ruling with near dictatorial power, DAOs are built to provide an organizational structure that’s responsive to all members, specifically by enabling direct input on things such as treasury allocations. 
+
 
 ### What will this DAO be used for? 
 
+As mentioned, AlumDAO is focused on ensuring more research can be accomplished effectively. This is because we believe humanity now more than ever needs to innovate its way out of potential cataclysms both recognized and yet unknown. We believe that capital as well as community are critical to unlocking the world’s potential—and the innate connectivity of the internet enables both to be coordinated more effectively than ever before. 
+
+We envision a world where individuals who once had a passion for research are able to reconnect with their motivations, and pursue developments for the sake of curiosity as well as commercial potential. Further, we see a scenario where academics are able to work for themselves, and be compensated for their efforts while also holding down full-time jobs in the private sector. In short, rather than replacing the academic research system in place, AlumDAO seeks to amplify it, providing resources in the form of capital as well as interest alumni. 
+
+Specifically, AlumDAO seeks to connect with researchers and technology transfer organizations  at the premier research institutions in the United States in order to define areas of research with high potential (both being pursued as well as not yet considered)  
+
 
 ### Soulbound Token / NFTs (Proof of Association)
+
+Access to the AlumDAO network will be enabled through the use of digital "soul-bound" tokens. Each soul-bound token is unique and non-tranferable, meaning it is unable to be traded, bought, or sold on a secondary market. Only the DAO has the ability to granted or revoke soul-bound tokens. Token will act as a decentralized digital passport that grants access to DAO features and represents a single vote in the DAO governance system. More information about the soul-bound NFTs will be available as this technology develops.   
+
 
 ## How we develop and license intellectual property 
 
