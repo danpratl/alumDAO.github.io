@@ -7,13 +7,17 @@ One of America’s  greatest superpowers is our rich history of academic researc
 
 University research brought us the internet itself when a professor at UCLA sent the first transmission from one computer to another computer in Stanford in 1969. ARPANet further connected Universities working for DARPA and the internet was born.
 
-AlumniDAO aims to carry on this tradition of research, development, and commercialization of bleeding edge technologies.  
+Quadron aims to carry on this tradition of research, development, and commercialization of bleeding edge technologies.  
 
 ## Principles
 
-- The DAO will not be anonymous in order to conduct commercial affairs offline.
-- The DAO will be truly decentralized and run based on majority consensus. 
-- The Treasury of the DAO will be fully transparent to anyone holding at least 1 token.
-- Communications will be fully transparent, except as needed to protect the interest of the DAO as determined by its members, and shall take place principally on Discord at: https://discord.gg/btuxGcheQC
-- The DAO will be organized as a legal entity and intends to be recognized and operate as such to limit the liability of its members. The future members shall determine and settle upon the ideal legal structure to execute the DAOs mission.
-- The DAO will conduct itself ethically, honestly, and lawfully and will not tolerate illegal or unethical practices. If this is not upheld, the DAOs members have a duty and obligation to shut it down.
+Quadron's principles, underpinning our mission to offer comprehensive commercialization solutions from idea to asset, emphasize a holistic, platform-centric approach to fostering innovation ecosystems:
+
+- Engagement and Collaboration: We facilitate vibrant connections between academia and the broader innovation economy, promoting collaborative progress.
+- Platform Flexibility: Quadron serves as a dynamic interface for idea exchange and innovation, moving beyond traditional frameworks to spark interactive and creative thought.
+- Deepening Relationships through Information Awareness: We enhance collaborations by embedding rich, contextual knowledge into existing workflows, enabling more productive and informed partnerships.
+- Open Communication: Our commitment to transparency ensures open dialogues within the university community, encouraging feedback and engagement.
+- Ethical and Legal Integrity: Quadron adheres to the highest standards of ethics and compliance, safeguarding our community.
+- Promoting Innovation through Open Source: Where possible, we share our methodologies and resources, driving forward the development of generative intelligence tools.
+
+Together, these principles drive our endeavor to support the full lifecycle of university innovations, ensuring a path that is not only collaborative and transparent but also deeply rooted in ethical practices.
